@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">N1-checkBox</string>
+    <string name="app_titulo">Mercadinho da Esquina Online</string>
+    <string name="app_subTitulo">Escolha seus produtos</string>
+    <string name="app_opcao1">Panetonne   R$12,99</string>
+    <string name="app_opcao2">Salgadinho de Presunto   R$8,89</string>
+    <string name="app_opcao3">Pão Italiano   R$ 7,50</string>
+    <string name="app_opcao4">Chocolate 70% Cacau   R$15,00</string>
+    <string name="app_opcao5">Coxinha   R$6,00</string>
+    <string name="app_button">Total da compra</string>
+    <string name="app_total">Total: R$0,00</string>
+</resources>

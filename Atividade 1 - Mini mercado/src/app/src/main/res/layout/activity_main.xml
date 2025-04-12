@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_titulo"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textColor="@color/blue"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtSubTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_subTitulo"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <CheckBox
+        android:id="@+id/cbOpcao1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_opcao1" />
+
+    <CheckBox
+        android:id="@+id/cbOpcao2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_opcao2" />
+
+    <CheckBox
+        android:id="@+id/cbOpcao3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_opcao3" />
+
+    <CheckBox
+        android:id="@+id/cbOpcao4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_opcao4" />
+
+    <CheckBox
+        android:id="@+id/cbOpcao5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_opcao5" />
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:text="@string/app_button" />
+
+    <TextView
+        android:id="@+id/txtTotal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="@string/app_total" />
+
+</LinearLayout>
