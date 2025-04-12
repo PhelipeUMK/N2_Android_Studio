@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Salario e Aumento</string>
+    <string name="app_opção1">40%</string>
+    <string name="app_opção2">45%</string>
+    <string name="app_opção3">50%</string>
+    <string name="app_botão">Mostrar novo salário</string>
+    <string name="app_resultado">Novo salário:</string>
+    <string name="app_salario">Digite sue salário (R$)</string>
+    <string name="app_percentual">Qual será o percentual ?</string>
+</resources>
