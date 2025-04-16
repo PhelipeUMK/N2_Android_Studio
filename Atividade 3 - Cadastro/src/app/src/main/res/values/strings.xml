@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDeCadastro</string>
+    <string name="app_Titulo">Boas Vindas!</string>
+    <string name="app_SubTitulo">Que bom que você veio a este grande evento da FECAP.</string>
+    <string name="app_Button1">Próximo</string>
+    <string name="app_Button2">Cadastrar</string>
+    <string name="app_Texto1">Digite seu nome:</string>
+</resources>
